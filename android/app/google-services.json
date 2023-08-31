@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "423107561204",
+    "project_id": "loginsignupifrah",
+    "storage_bucket": "loginsignupifrah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423107561204:android:71b410ec3c40beae9c40a1",
+        "android_client_info": {
+          "package_name": "com.example.two"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423107561204-2q2vpir3l4ucnk17q0fe0kpqshq5big8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5IVfG1XR0R1YaK-n2NWGofLMy6i6eW04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423107561204-2q2vpir3l4ucnk17q0fe0kpqshq5big8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
